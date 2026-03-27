@@ -1,3 +1,4 @@
+---
 name: opcstudio-finance-invoice-upload
 description: Call opcstudio-mcp-server invoice_upload for invoice registration. Use when user mentions 发票上传, 发票登记, 上传发票文件. Try upload first; if response indicates login required, then guide user through send_login_code and login_with_code.
 ---
