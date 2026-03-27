@@ -15,7 +15,7 @@
 }
 ```
 
-2. 安装skill
+2. 安装 skill
 ```
-npx skills add https://github.com/aomitech/opc-studio-skills
+npx skills add https://github.com/aomitech/opc-studio-skills --skill "*"
 ```
